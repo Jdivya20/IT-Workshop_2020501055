@@ -1,4 +1,23 @@
-h1{
+.navbar{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .head{
+      color: white;
+      text-decoration: none;
+  }
+h1,h2{
     text-align: center;
 }
 #img{
@@ -9,7 +28,7 @@ h1{
 }
 
 .desc{
-    padding-left: 20%;
+    padding-left: 10%;
 }
 .center{
 align-items: center;
@@ -27,24 +46,26 @@ table,th,td{
 th{
     background-color: chocolate;
 }
-h1,h4{
+h1,h2,h3,h4{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: darkblue;
 }
 .border{
-    
+/*     
     border: 1px darkorchid;
     border-style:dashed;
     border-radius: 5px;
-    padding: 0.5em;
+    padding: 0.5em; */
     background-image: url(https://cdn5.vectorstock.com/i/1000x1000/93/99/seamless-background-with-books-vector-6099399.jpg);
     background-repeat: no-repeat;
     background-size: 100%; 
     line-height: 20px;
 
 }
-p{
-    font-weight: 300px;
+body{
+    font-family:cursive;
+    font-size: larger;
+
 }
    
 .title{
@@ -52,7 +73,22 @@ p{
     font-size: larger;
     color: darkblue;
 }
+.footer{
+    text-align: center;
+    
+}
 .contact{
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
 }
+
+.img-circular{
+    width: 300px;
+    height: 300px;
+    background-image: url('images/circle-cropped.png');
+    background-size: cover; 
+     display: block;
+    margin: auto;
+    
+   }
+  
