@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+}
+#img{
+    
+    float:right;
+    padding-right: 20%;
+   
+}
+
+.desc{
+    padding-left: 20%;
+}
+.center{
+align-items: center;
+ margin-left: auto;
+ margin-right: auto;   
+}
+table,th,td{
+    border: 2px solid black;
+    text-align: center;
+    border-color:green;
+}
+.area{
+    width:60%;
+}
+th{
+    background-color: chocolate;
+}
+h1,h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+.border{
+    
+    border: 1px darkorchid;
+    border-style:dashed;
+    border-radius: 5px;
+    padding: 0.5em;
+    background-image: url(https://cdn5.vectorstock.com/i/1000x1000/93/99/seamless-background-with-books-vector-6099399.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%; 
+    line-height: 20px;
+
+}
+p{
+    font-weight: 300px;
+}
+   
+.title{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    color: darkblue;
+}
+.contact{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
