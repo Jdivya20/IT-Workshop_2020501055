@@ -177,6 +177,27 @@ background-color: blanchedalmond;
     /* margin-right: 5%; */
     border: 1px solid black;
 }
+.draw{
+    width: 300;
+    height: 345;
+    margin-right: 3%;
+    margin-left: 2%;
+    border: 1px solid black;
+}
+.draw1{
+    width: 300;
+    height: 345;
+    margin-right: 3%;
+    border: 1px solid black;
+}
+
+.draw2{
+    width: 380;
+    height: 345;
+    /* margin-right: 5%; */
+    border: 1px solid black;
+}
+}
 .names{
     float: left;
     list-style-type: none;
