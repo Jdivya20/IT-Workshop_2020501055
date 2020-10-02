@@ -23,6 +23,17 @@
     padding: 14px 16px;
     text-decoration: none;
   }
+  .welcome1{
+    color: blanchedalmond;
+   font-size: 5em;
+   /* padding-right: 40%; */
+   padding-top: 7%;
+  }
+  .welcome{
+    color: blanchedalmond;
+   font-size: 4em;
+   padding-top: 5%;
+  }
 h1,h2{
     text-align: center;
 }
@@ -136,6 +147,7 @@ body{
 .space{
     margin-top:5%;
     margin: auto;
+    text-align: center;
 }
 .mtm{
     width: 100%;
