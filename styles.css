@@ -104,6 +104,35 @@ body{
     text-align: center;
     
 }
+.cards{
+    width: 25%;
+    background-color: thistle;
+    height: 45%;
+    float:left; 
+    margin-right: 7%;
+    margin-left: 5%;
+}
+.cards1{
+    width: 25%;
+    background-color:thistle;
+    height: 45%;
+    float:left;  
+}
+  
+.cards2{
+    width: 25%;
+    background-color:thistle;
+    height: 45%;
+    float:right;  
+    margin-right: 5%;
+}
+.space{
+    margin-top:5%;
+}
+.mtm{
+    width: 100%;
+    height: 65%;
+}
 .contact{
     text-align: center;
     font-size: xx-large;
