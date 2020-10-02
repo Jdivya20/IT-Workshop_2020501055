@@ -27,12 +27,12 @@
     color: blanchedalmond;
    font-size: 5em;
    /* padding-right: 40%; */
-   padding-top: 7%;
+   padding-top: 5%;
   }
   .welcome{
     color: blanchedalmond;
    font-size: 4em;
-   padding-top: 5%;
+   padding-top: 2%;
   }
 h1,h2{
     text-align: center;
@@ -49,6 +49,7 @@ h1,h2{
     background-color: thistle;
     height: 200px;
     margin-left: 10%;
+    text-align: left;;
     /* margin-right: 10%; */
 }
 .container1{
@@ -56,6 +57,7 @@ h1,h2{
     height: 210px;
     /* margin-left: 10%; */
     margin-right: 10%; 
+    text-align: left;
 }
 #img{
     
@@ -73,6 +75,9 @@ h1,h2{
 
 .desc{
     /* padding-left: 10%; */
+    margin-top: 2%;
+    top:20px;
+    position: relative;
 }
 .center{
 align-items: center;
@@ -109,7 +114,7 @@ h1,h2,h3,h4{
 body{
     font-family:cursive;
     font-size: larger;
-
+background-color: blanchedalmond;
 }
    
 .title{
