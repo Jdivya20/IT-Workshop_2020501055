@@ -5,17 +5,23 @@
   overflow: hidden;
   background-color: #333;
 }
-li{
+/* .lis{
     float: left;
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
+  } */
   .head{
-      color: white;
-      text-decoration: none;
+      /* color: white;
+      text-decoration: none; */
+      float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
   }
 h1,h2{
     text-align: center;
@@ -140,17 +146,38 @@ body{
     height: 345;
     margin-right: 5%;
     margin-left: 2%;
+    border: 1px solid black;
 }
 .foods{
     width: 300;
     height: 345;
     margin-right: 5%;
+    border: 1px solid black;
 }
 .foods1{
     width: 300;
     height: 345;
     /* margin-right: 5%; */
+    border: 1px solid black;
 }
+.names{
+    float: left;
+    list-style-type: none;
+    /* margin-right: 5%;
+    margin-left: 5%; */
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+    
+}
+.names1{
+    float: left;
+    list-style-type: none;
+    padding-left: 13%;
+    padding-right: 5%;
+    font-weight: bold;
+}  
+
 .contact{
     text-align: center;
     font-size: xx-large;
