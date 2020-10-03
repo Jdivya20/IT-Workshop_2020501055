@@ -171,6 +171,9 @@ background-color: blanchedalmond;
     float:left; 
     margin-right: 5%;
     margin-left: 5%;
+    position: relative;
+    /* width: 300;
+    height: 345; */
 }
 .cards1{
     width: 27%;
@@ -178,6 +181,7 @@ background-color: blanchedalmond;
     height: 45%;
     float:left;  
     margin-left:1.75% ;
+    position: relative;
 }
   
 .cards2{
@@ -186,6 +190,7 @@ background-color: blanchedalmond;
     height: 45%;
     float:right;  
     margin-right: 5%;
+    position: relative;
 }
 .space{
     margin-top:5%;
